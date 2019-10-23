@@ -1,3 +1,2 @@
-# > Speedtest by Ookla
-USER-AGENT,SpeedTest*,The
-DOMAIN-KEYWORD,speedtest,The
+# > The specified websites
+DOMAIN-SUFFIX,adguard.com,The
