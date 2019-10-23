@@ -1,2 +1,3 @@
-# > The specified websites
-DOMAIN-SUFFIX,adguard.com,The
+# > Speedtest by Ookla
+USER-AGENT,SpeedTest*,Speedtest
+DOMAIN-KEYWORD,speedtest,Speedtest
