@@ -1,6 +1,3 @@
-# > AdGuard
-DOMAIN-SUFFIX,adguard.com,DIRECT
-
 # > 1Password
 DOMAIN-SUFFIX,1password.com,DIRECT
 DOMAIN-SUFFIX,1passwordusercontent.com,DIRECT
